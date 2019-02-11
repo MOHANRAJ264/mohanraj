@@ -13,5 +13,5 @@ void main()
         i++;
     }
   printf("%d",sum);
-    getch();
+    
 }
