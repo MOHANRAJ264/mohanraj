@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+void main()
 {
     char a[100];
     scanf("%s",a);
@@ -22,5 +22,5 @@ int main()
     {
         printf("%c",a[i]);
     }
-    return 0;
+   
     }
