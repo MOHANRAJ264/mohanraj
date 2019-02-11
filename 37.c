@@ -2,11 +2,11 @@
 
 void main()
 {
-    char a[100],i,l=0;
-    scanf("%c",&a);
-    for(i=0;a[i]!='\0';i++)
+    char b[100],i,l=0;
+    gets(b);
+    for(i=0;b[i]!='\0';i++)
     {
-        if(a[i]>=' '&&a[i]<='/')
+        if(b[i]>=' '&&b[i]<='/')
         {
             l++;
         }
