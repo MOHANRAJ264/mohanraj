@@ -6,5 +6,4 @@ char a;
 clrscr();
 scanf("%c",&a);
 printf("%d",a);
-getch();
 }
