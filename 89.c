@@ -14,5 +14,4 @@ for(i=l-1;i>=0;i--)
 {
 printf("%c",a[i]);
 }
-getch();
 }
