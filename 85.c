@@ -21,5 +21,5 @@ if(i%2!=0)
 printf("%c",a[i]);
 }
 }
-getch();
+
 }
