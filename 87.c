@@ -13,5 +13,4 @@ gcd=i;
 }
 }
 printf("%d",gcd);
-getch();
 }
