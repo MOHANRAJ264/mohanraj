@@ -12,5 +12,4 @@ k=k*r;
 n=n/10;
 }
 printf("%d",k);
-getch();
 }
